@@ -8,8 +8,6 @@ STOCK = "TSLA"
 COMPANY_NAME = "Tesla Inc"
 
 today_date = dt.datetime.now().date()
-year = today_date.year
-month = today_date.month
 day = today_date.day
 day_2 = today_date.day
 
